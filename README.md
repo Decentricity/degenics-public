@@ -3,7 +3,7 @@ Decentralized Genetics Project
 
 ### This file provides the concept document for the Degenics project.
 
-Organizational repo for the project is at [Degenics](github.com/Degenics).
+Organizational repo for the project is at [Degenics](http://github.com/Degenics).
 
 ### Elevator Pitch
 
@@ -25,17 +25,17 @@ TL;DR: a VPN for your DNA.
 
 Degenics is a group of IT consultants, blockchain developers, and biologists who are passionate about privacy, decentralized technologies, and genomic data science.
 
-* [Pandu Sastrowardoyo](github.com/Decentricity) - Initiator
+* [Pandu Sastrowardoyo](http://github.com/Decentricity) - Initiator
 * Gilang Bhagaskara - Tech Lead
 * Jean-Daniel Gauthier - Product Lead
 * Aaron Ting - Marketing Lead
 * Bobby Andika - Dev Lead
-* [Muhammad Arif](github.com/marcondol) - Back End and Blockchain
+* [Muhammad Arif](http://github.com/marcondol) - Back End and Blockchain
 * Aloysius Dedy - Blockchain and Smart Contracts
 * Kevin Janada - UI/UX
 * Ibnu Gamal Alhadid - Advisor
 
-### The Following Concept Description is licensed via [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) to Pandu Sastrowardoyo / [Decentricity](github.com/Decentricity)
+### The Following Concept Description is licensed via [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) to Pandu Sastrowardoyo / [Decentricity](http://github.com/Decentricity)
 
 
 ## Trustless/Fully Decentralized Model
