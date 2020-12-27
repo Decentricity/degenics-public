@@ -3,7 +3,7 @@ Decentralized Genetics Project
 
 ### This file provides the concept document for the Degenics project.
 
-Organizational repo for the project is at github.com/Degenics
+Organizational repo for the project is at [Degenics](github.com/Degenics).
 
 ### Elevator Pitch
 
