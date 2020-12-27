@@ -70,3 +70,47 @@ An alternative deployment model would be the private / consortium deployment whe
 This simplifies the workflow while maintaining the anonymity of the users. The labs get access to a commercial market, and the users still get an anonymous physical-to-digital bridge for their genomic data.
 
 Additionally, after the initial on-ramp, the labs are free to up-sell additional analytics products to the users, without resampling.
+
+
+## Tech-Related FAQ
+
+### If things are happening anonymously, how does the user/customer pay for the service?
+There are two options, the traditional option or the fully decentralized option. We prefer fully decentralized, but this might not be an option in all locales. Traditional payment models may also work better for consortium or private deployments of Degenics.
+
+#### Enterprise/Consortium Model
+The traditional option: Consumer funds are held in escrow by a local payment gateway or bank until the lab provides valid data (report and genome) into decentralized storage. The smart contract then triggers fund disbursement into the lab's accounts. Note that this still maintains anonymity of the genomic data, since:
+- Payment gateway / bank does have access to consumer KYC, but does not have access to genomic data or reports
+- Labs don't have access to consumer KYC, although it does have access to anonymized genomic data.
+
+#### Trustless/Decentralized Payments
+All transactions happen via a Blockchain token model. Consumer onboards with their preferred cryptocurrency token, or goes through a fiat-to-crypto bridge (example here) to pay. Smart contracts hold consumer's tokens in escrow until labs provide valid data. The smart contract then triggers fund disbursement into the labs' account
+
+### Why 2 labs?  Is it for the sake of comparing the result?
+We designed Degenics with 2 labs per transaction since we want to solve this following global problem with personal genetic testing:
+
+Unlike other categories of services, consumers can't recheck the results of DNA analytics services unless they have access to a lab or PCR device of their own.
+
+This, we feel, places consumers at a disadvantage and may lower the quality of future genetic testing results within the ecosystem.
+
+Thus, we designed the platform with a semi-random, rating-based selection of two labs per transaction to ensure two things:
+
+- All labs, from garage DIYBiolabs to large companies, can join the ecosystem and compete with each other.
+- The quality of the results are maintained, even with the consumers being anonymous.
+
+The two labs model is optional (users can elect to just choose one lab to send to), but Degenics believes that the future of a truly decentralized genetic testing ecosystem lies here.
+
+In the long term, this system also allows the ecosystem to grow further -- with smaller labs helping to check the larger labs, and vice versa. The rating system associated with the labs would also provide incentives for the ecosystem to increase in quality.
+
+### Personal genome files are huge. How would you expect to send these files via Blockchain?
+
+You're right -- genome files are quite large. Raw PCR output can be up to 900GB, and even VCF files hover around 10-100MB (for a subset of sequences) or 1GB (for Whole Genome Sequencing).
+
+Here's our strategy in enabling these files to be shared and owned by the user:
+
+* First, we will focus on the VCF files exclusively. In our initial POC, only the smaller VCF files will be included in the "result package" sent to each user, along with the report.
+
+* Second, we will utilize a combination IPFS / torrent platform to act as the decentralized storage mechanism. The "result package" is encrypted off-chain (with the user's public key) and put within this decentralized storage platform.
+
+* Third, the main blockchain platform itself will link to the decentralized storage mechanism through a hash list. This means that the main blockchain platform only contains pointers to the data in decentralized storage, and not the actual genomic files.
+
+In the enterprise/consortium strategy, the IPFS/torrent platform can be replaced with regular public or private cloud solutions.
