@@ -7,7 +7,8 @@ Organizational repo for the project is at [Degenics](http://github.com/Degenics)
 
 ### Elevator Pitch
 
-Degenics: The Decentralized Genetics Initiative
+#### Degenics: The Decentralized Genetics Initiative
+
 We are building a decentralized platform for your personal genetics.
 Our concept allows synergy between labs of all scales while guaranteeing user anonymity and sovereignty at every step of the genomic data science workflow—
 from sample collection, data storage, to report generation.
