@@ -40,7 +40,8 @@ Degenics is a group of IT consultants, blockchain developers, and biologists who
 
 ## Trustless/Fully Decentralized Model
 
-###Anonymous Physical-Digital Bridge
+### Anonymous Physical-Digital Bridge
+
 Without having to enter KYC, the user activates the dApp and generates her passphrase. This forms the basis of her private key, and is paired with a sharable public key.
 
 The user takes two samples -- a cheek swab to be practical-- and puts them into a sample bottle each. Each sample bottle is put into its own envelope.
