@@ -35,7 +35,7 @@ Degenics is a group of IT consultants, blockchain developers, and biologists who
 * Kevin Janada - UI/UX
 * Ibnu Gamal Alhadid - Advisor
 
-### The Following Concept Description is licensed via Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) to Pandu Sastrowardoyo / [Decentricity](github.com/Decentricity)
+### The Following Concept Description is licensed via [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) to Pandu Sastrowardoyo / [Decentricity](github.com/Decentricity)
 
 ### Core Mechanism
 
