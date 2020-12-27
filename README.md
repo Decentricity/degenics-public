@@ -37,11 +37,10 @@ Degenics is a group of IT consultants, blockchain developers, and biologists who
 
 ### The Following Concept Description is licensed via [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) to Pandu Sastrowardoyo / [Decentricity](github.com/Decentricity)
 
-### Core Mechanism
 
 ## Trustless/Fully Decentralized Model
 
-Anonymous Physical-Digital Bridge
+###Anonymous Physical-Digital Bridge
 Without having to enter KYC, the user activates the dApp and generates her passphrase. This forms the basis of her private key, and is paired with a sharable public key.
 
 The user takes two samples -- a cheek swab to be practical-- and puts them into a sample bottle each. Each sample bottle is put into its own envelope.
@@ -50,7 +49,7 @@ dApp creates an envelope label that the user can either rewrite or print on the 
 
 User sends the two envelopes via her local post office box.
 
-## Decentralized Labs, Sovereign Data
+### Decentralized Labs, Sovereign Data
 
 The aforementioned labs analyze the sample and produce datasets (VCF file & analysis).
 
@@ -62,8 +61,8 @@ If there is less than 10% difference between two output datasets. both are encry
 
 User is alerted, and can access her data at any time by decrypting via private key.
 
-### Enterprise/Consortium Model
-## Semi-Decentralized  Deployment with "Lab Marketplace"
+## Enterprise/Consortium Model
+### Semi-Decentralized  Deployment with "Lab Marketplace"
 
 An alternative deployment model would be the private / consortium deployment where labs are directly selected by the users.
 
