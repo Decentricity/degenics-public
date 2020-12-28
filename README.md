@@ -4,11 +4,8 @@
 ### This file provides the concept document for the Degenics project.
 
 If you found this file somewhere else, organizational repo for the project is at [Degenics](http://github.com/Degenics).
-### The Following Concept Description is licensed:
 
-### via [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/),
-
-### to Pandu Sastrowardoyo / [Decentricity](http://github.com/Decentricity)
+Caveat: *The Following Concept Description is licensed via [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/), to Pandu Sastrowardoyo / [Decentricity](http://github.com/Decentricity)*
 
 ### Elevator Pitch
 
