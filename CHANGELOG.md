@@ -1,6 +1,6 @@
 # Changelog
 
-## Initializing 2020/12/21 [Unreleased]
+## Initializing 2020/12/21 [Unreleased](https://github.com/Degenics)
 
 - Gitlab initialized ([marcondol](http://github.com/marcondol))
 - Google Cloud Platform initialized ([Decentricity](http://github.com/Decentricity))
@@ -8,9 +8,9 @@
 - Domain acquired, [www.degenics.com](http://degenics.com) ([Decentricity](http://github.com/Decentricity))
 - Website go live, [www.degenics.com](http://degenics.com) ([Decentricity](http://github.com/Decentricity))
 - IAM granted, accesses provided, roles defined ([Decentricity](http://github.com/Decentricity))
-- UI/UX research: Vitagene, 23andme, Ancestry (*.*)
-- Storage research: IPFS / Torrent / IPFS+Torrent Research for Whole Genome Sequences (VCF files 1GB++) (*.*)
-- Payment research: [Transak](http://transak.com) Payment Gateway supported by Consensys (*.*)
+- UI/UX research: Vitagene, 23andme, Ancestry (Team)
+- Storage research: IPFS / Torrent / IPFS+Torrent Research for Whole Genome Sequences (VCF files 1GB++) (Team)
+- Payment research: [Transak](http://transak.com) Payment Gateway supported by Consensys (Team)
 
 ## Prototyping 2020/12/28 [Unreleased](https://github.com/Degenics)
 
@@ -29,7 +29,7 @@
 
 **Development**
 
-- Workflow is at 20201228Workflow.jpg ([ybobby](http://github.com/ybobby))
+- Workflow is at (/media/20201228Workflow.jpg) ([ybobby](http://github.com/ybobby))
 - IPFS connected with encryption, upload / download ability implemented. ([marcondol](http://github.com/marcondol)) Demo is at IPFS.mkv
 - UX/UI initialized, keypair & mnemonic process initialized, dashboard initialized. ([kevinjanada](https://github.com/kevinjanada) Demo is at UIUX.mkv
 
