@@ -29,9 +29,9 @@
 
 **Development**
 
-- Workflow is at [/media/20201228Workflow.jpg](https://github.com/Degenics/degenics-public/blob/main/media/20201228Workflow.png) ([ybobby](http://github.com/ybobby))
-- IPFS connected with encryption, upload / download ability implemented. ([marcondol](http://github.com/marcondol)) Demo is at IPFS.mkv
-- UX/UI initialized, keypair & mnemonic process initialized, dashboard initialized. ([kevinjanada](https://github.com/kevinjanada) Demo is at UIUX.mkv
+- Workflow is at [/media/20201228Workflow.png](https://github.com/Degenics/degenics-public/blob/main/media/20201228Workflow.png) ([ybobby](http://github.com/ybobby))
+- IPFS connected with encryption, upload / download ability implemented. ([marcondol](http://github.com/marcondol)) 
+- UX/UI initialized, keypair & mnemonic process initialized, dashboard initialized. ([kevinjanada](https://github.com/kevinjanada) Demo is at [/media/20201228UIUX.mkv](https://github.com/Degenics/degenics-public/blob/main/media/20201228UIUX.mkv).
 
 **Revision / Expansion Requests**
 
