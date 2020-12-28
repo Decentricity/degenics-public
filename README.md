@@ -5,7 +5,7 @@ Decentralized Genetics Project
 
 If you found this file somewhere else, organizational repo for the project is at [Degenics](http://github.com/Degenics).
 
-Latest changes always at [CHANGELOG.md](http://github.com/Degenics/degenics-public/CHANGELOG.md)
+Latest changes always at [CHANGELOG.md](https://github.com/Degenics/degenics-public/blob/main/CHANGELOG.md)
 
 ### Elevator Pitch
 
