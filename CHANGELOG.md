@@ -21,7 +21,7 @@
 - IPFS for storage layer, no Torrent required ([marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
 - Deploying on Ethereum testnet ([marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
 - Keypair derived from Ethereum keypair ([marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
-- Simple initial UI/UX ([kevinjanada](https://github.com/kevinjanada)
+- Simple initial UI/UX ([kevinjanada](https://github.com/kevinjanada))
 - Consortium / Private Deployment ([Decentricity](http://github.com/Decentricity))
 - Marketplace ([Decentricity](http://github.com/Decentricity))
 - Smart Contract expires if delivery not done within x days (Agent J, contributor)
