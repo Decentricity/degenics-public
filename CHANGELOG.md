@@ -2,7 +2,7 @@
 
 ## Initializing 2020/12/21 [Unreleased](https://github.com/Degenics)
 
-- Gitlab initialized ([marcondol](http://github.com/marcondol))
+- Gitlab initialized ([kevinjanada](http://github.com/kevinjanada))
 - Google Cloud Platform initialized ([Decentricity](http://github.com/Decentricity))
 - Migrated Gitlab to Github (non-technical considerations applied) ([Decentricity](http://github.com/Decentricity))
 - Domain acquired, [www.degenics.com](http://degenics.com) ([Decentricity](http://github.com/Decentricity))
@@ -20,7 +20,7 @@
 
 - IPFS for storage layer, no Torrent required ([marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
 - Deploying on Ethereum testnet ([marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
-- Keypair derived from Ethereum keypair ([marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
+- Keypair derived from Ethereum keypair ([marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82) & [kevinjanada](https://github.com/kevinjanada))
 - Simple initial UI/UX ([kevinjanada](https://github.com/kevinjanada))
 - Consortium / Private Deployment ([Decentricity](http://github.com/Decentricity))
 - Marketplace ([Decentricity](http://github.com/Decentricity))
@@ -29,7 +29,8 @@
 
 **Development**
 
-- Workflow is at [/media/20201228Workflow.png](https://github.com/Degenics/degenics-public/blob/main/media/20201228Workflow.png) ([ybobby](http://github.com/ybobby))
+- Workflow is at [/media/20201228Workflow.png](https://github.com/Degenics/degenics-public/blob/main/media/20201228Workflow.png) ([ybobby](http://github.com/ybobby),[marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
+- Encrytion using ethereum address. ([kevinjanada](https://github.com/kevinjanada))
 - IPFS connected with encryption, upload / download ability implemented. ([marcondol](http://github.com/marcondol)) 
 - UX/UI initialized, keypair & mnemonic process initialized, dashboard initialized. ([kevinjanada](https://github.com/kevinjanada)) Demo is at [/media/20201228UIUX.mkv](https://github.com/Degenics/degenics-public/blob/main/media/20201228UIUX.mkv).
 
