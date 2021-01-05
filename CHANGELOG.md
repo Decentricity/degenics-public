@@ -32,7 +32,7 @@ Sprint is **weekly**.
 
 - Workflow:
     ![/media/20201228Workflow.png](https://github.com/Degenics/degenics-public/blob/main/media/20201228Workflow.png) 
-    ([ybobby](http://github.com/ybobby),[marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
+    ([ybobby](http://github.com/ybobby),[marcondol](http://github.com/marcondol) & [dedy](http://github.com/aloisius82))
 - Encryption using ethereum address. ([kevinjanada](https://github.com/kevinjanada))
 - IPFS connected with encryption, upload / download ability implemented. ([marcondol](http://github.com/marcondol)) 
 - UX/UI initialized, keypair & mnemonic process initialized, dashboard initialized. ([kevinjanada](https://github.com/kevinjanada)) Demo is at [/media/20201228UIUX.mkv](https://github.com/Degenics/degenics-public/blob/main/media/20201228UIUX.mkv).
