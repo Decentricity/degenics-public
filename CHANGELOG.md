@@ -1,4 +1,5 @@
 # Changelog
+Sprint is **weekly*.
 
 ## Initializing 2020/12/21 [Unreleased](https://github.com/Degenics)
 
