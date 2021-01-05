@@ -51,7 +51,7 @@
 
 **Development**
 
-- User onboarding flow 60% implemented (([kevinjanada](https://github.com/kevinjanada))), including:
+- User onboarding flow 60% implemented ([kevinjanada](https://github.com/kevinjanada)), including:
     - Keygen
     - Private key login
     - Import json keystore
@@ -72,7 +72,7 @@
     - Instruction page for sampling and sending
     - Template to put on printable envelope with code and lab address
     - Separate buttons to only download certain files (REPORT and/or GENOME type file selection)
-- IPFS Upload / Download implemented 60%  ([marcondol](http://github.com/marcondol) & ([dedy](http://github.com/aloisius82))
+- IPFS Upload / Download implemented 60%  ([marcondol](http://github.com/marcondol) & [dedy](http://github.com/aloisius82))
 - IPFS backlog 40%:
     - Two flows for the files (one button for REPORT filetype, one button for GENOME filetype, with multiple files allowed for each)
 - Labside 50% implemented (Team):
