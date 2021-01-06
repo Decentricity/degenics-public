@@ -1,5 +1,5 @@
 # Changelog
-Sprint is **weekly**.
+Sprint is **weekly**. Outside of holidays, sprint call is **every first working day of the week.**
 
 ## Initializing 2020/12/21 [Unreleased](https://github.com/Degenics)
 
