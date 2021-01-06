@@ -1,9 +1,11 @@
 # degenics
-Decentralized Genetics Project
+# Decentralized Genetics
+### Latest changes to main project always concurred by [CHANGELOG.md](https://github.com/Degenics/degenics-public/blob/main/CHANGELOG.md) via weekly sprint.
 
 ### This file provides the concept document for the Degenics project.
+If you found this file somewhere else, organizational repo for the project is at [Degenics](http://github.com/Degenics) and the public-facing website is at [decentralizedgenetics.com](http://decentralizedgenetics.com).
 
-Organizational repo for the project is at [Degenics](http://github.com/Degenics).
+Caveat: *The Following Concept Description is licensed via [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/), to Pandu Sastrowardoyo / [Decentricity](http://github.com/Decentricity)*
 
 ### Elevator Pitch
 
@@ -27,16 +29,16 @@ TL;DR: a VPN for your DNA.
 Degenics is a group of IT consultants, blockchain developers, and biologists who are passionate about privacy, decentralized technologies, and genomic data science.
 
 * [Pandu Sastrowardoyo](http://github.com/Decentricity) - Initiator
-* Gilang Bhagaskara - Tech Lead
+* [Gilang Bhagaskara](http://github.com/gilangbh) - Tech Lead
 * Jean-Daniel Gauthier - Product Lead
 * Aaron Ting - Marketing Lead
-* Bobby Andika - Dev Lead
+* [Bobby Andika](http://github.com/ybobby) - Dev Lead
 * [Muhammad Arif](http://github.com/marcondol) - Back End and Blockchain
-* Aloysius Dedy - Blockchain and Smart Contracts
-* Kevin Janada - UI/UX
+* [Aloysius Dedy](http://github.com/aloisius82) - Blockchain and Smart Contracts
+* [Kevin Janada](http://github.com/kevinjanada) - UI/UX
 * Ibnu Gamal Alhadid - Advisor
 
-### The Following Concept Description is licensed via [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) to Pandu Sastrowardoyo / [Decentricity](http://github.com/Decentricity)
+
 
 
 ## Trustless/Fully Decentralized Model
