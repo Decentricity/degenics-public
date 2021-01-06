@@ -85,12 +85,21 @@ Sprint is **weekly**.
     - Instructions for labside user
     - Progress bar
 
-**Performace Notes**
+
+
+**Demo Video**
+    [![Demovid](/media/DegenicsAlpha01.png)](https://www.youtube.com/watch?v=qTyi8Zg8W_A&)
+
+**Performance Notes**
 - Team will explore using metamask for a better user experience and performance optimization.
 
 **UX Notes**
 - General simplification required for next sprint
 - User feedback and anti-frustration features (Jean-Daniel Gauthier, contributor)
 
-**Demo Video**
-    [![Demovid](/media/DegenicsAlpha01.png)](https://www.youtube.com/watch?v=qTyi8Zg8W_A&)
+**UX Notes, screenshots of Figma mockup with revisions for next sprint (Jean-Daniel Gauthier, contributor):**
+    ![1](/media/DA01-1.PNG)
+    ![2](/media/DA01-2.PNG) 
+    ![3](/media/DA01-3.PNG) 
+    ![4](/media/DA01-4.PNG) 
+    ![5](/media/DA01-5.PNG)  
