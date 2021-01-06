@@ -99,8 +99,10 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
 - User feedback and anti-frustration features (Jean-Daniel Gauthier, contributor)
 
 (added 2020/01/06) **UX Notes, screenshots of Figma mockup with revisions for next sprint (Jean-Daniel Gauthier, contributor):**
-    ![1](/media/DA01-1.PNG)
-    ![2](/media/DA01-2.PNG) 
-    ![3](/media/DA01-3.PNG) 
-    ![4](/media/DA01-4.PNG) 
-    ![5](/media/DA01-5.PNG)  
+    ![1](/media/DA01.gif)
+    Screens: 
+    - [1](/media/DA01-5.PNG)
+    - [2](/media/DA01-4.PNG) 
+    - [3](/media/DA01-3.PNG) 
+    - [4](/media/DA01-2.PNG) 
+    - [5](/media/DA01-1.PNG)  
