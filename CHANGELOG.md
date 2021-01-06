@@ -90,14 +90,15 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
 **Demo Video**
     [![Demovid](/media/DegenicsAlpha01.png)](https://www.youtube.com/watch?v=qTyi8Zg8W_A&)
 
-**Performance Notes**
+**Platform/Performance Notes**
 - Team will explore using metamask for a better user experience and performance optimization.
+- (Added 2020/01/06) Team will explore using Polkadot
 
 **UX Notes**
 - General simplification required for next sprint
 - User feedback and anti-frustration features (Jean-Daniel Gauthier, contributor)
 
-**UX Notes, screenshots of Figma mockup with revisions for next sprint (Jean-Daniel Gauthier, contributor):**
+(added 2020/01/06) **UX Notes, screenshots of Figma mockup with revisions for next sprint (Jean-Daniel Gauthier, contributor):**
     ![1](/media/DA01-1.PNG)
     ![2](/media/DA01-2.PNG) 
     ![3](/media/DA01-3.PNG) 
