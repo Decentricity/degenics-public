@@ -106,3 +106,10 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - [3](/media/DA01-3.PNG) 
     - [4](/media/DA01-2.PNG) 
     - [5](/media/DA01-1.PNG)  
+    
+    
+    
+    
+## Prototyping 2021/1/14 [Unreleased](https://github.com/Degenics)
+**Demo Video**
+    [![Demovid](/media/DegenicsAlpha02.png)](https://drive.google.com/file/d/1TB9RJz_FCDe8vIvvc41j0s1LYC9Oc3Ka/view)
