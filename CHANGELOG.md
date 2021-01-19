@@ -136,4 +136,4 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - (2021/1/13) Update skin product to skin care
     
 - Demo
-https://drive.google.com/file/d/1Rk0AZ1qMIUMhtZ2M_BKcpeV_mHnPmFWF/view?usp=sharing
+    - https://drive.google.com/file/d/1Rk0AZ1qMIUMhtZ2M_BKcpeV_mHnPmFWF/view?usp=sharing
