@@ -45,7 +45,6 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
 - UX tweaks (Jean-Daniel Gauthier, contributor)
 
 
-
 ## Prototyping 2021/1/4 [Unreleased](https://github.com/Degenics)
 
 ### Full Changelog
@@ -86,7 +85,6 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - Progress bar
 
 
-
 **Demo Video**
     [![Demovid](/media/DegenicsAlpha01.png)](https://www.youtube.com/watch?v=qTyi8Zg8W_A&)
 
@@ -106,7 +104,6 @@ Sprint is **weekly**. Outside of holidays, sprint call is **every first working 
     - [3](/media/DA01-3.PNG) 
     - [4](/media/DA01-2.PNG) 
     - [5](/media/DA01-1.PNG)  
-    
     
     
 ## Prototyping 2021/1/14 [Unreleased](https://github.com/Degenics)
