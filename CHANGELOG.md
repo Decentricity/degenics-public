@@ -102,7 +102,13 @@ Sprint is **weekly**.
     - (2021/1/15) Fix authentication flow: add route guards to check if logged in, sdd route guards to check user role when app start, move load web3 and contracts to router so to be able to access; Refactor; Connect to web3 and setup contracts before app renders; Fix flow in lab: change upload to result and genome, fix finalize to new method, fix bug crash on lab order list
     - (2021/1/17) Update lab's dashboard: Modified lab's dashboard home datatable to show next actions, add Process Screen to process specimen, Receive -> Wetwork -> Encrypt Upload Files -> Send (Set specimen status to success) workflow
     - (2021/1/18) Create order detail and all result: create page for w all result, create page for order detail, link page to dashboard; Create result: create result parser, create download result, create download genome; Update success & reject flow: show reject alert after rejecting speciment, show success alert after set speciment status to success
-
+  
+  - Smart Contract
+    - (2021/1/6)  Add timestamp
+    - (2021/1/9)  Add dummy services data
+    - (2021/1/11) Add escrow reg
+    - (2021/1/13) Update skin product to skin care
+    
 **Demo Video**
     [![Demovid](/media/DegenicsAlpha01.png)](https://www.youtube.com/watch?v=qTyi8Zg8W_A&)
 
