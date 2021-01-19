@@ -84,8 +84,24 @@ Sprint is **weekly**.
     - Time / deadline warning to revert with results
     - Instructions for labside user
     - Progress bar
+    
+## Prototyping 2021/1/18 [Unreleased](https://github.com/Degenics)
 
+### Full Changelog
 
+**Development**
+
+- Front End
+    - (2021/1/5) Use custom Wallet class for faster encrypt decrypt and wallet generation
+    - (2021/1/7) Update login page: update login page design, add confirm password validation, gitignore local contract.json
+    - (2021/1/8) Update receipt page design: add DNA sample sending instruction, add helper to format specimen number; Handle and show send payment error message 
+    - (2021/1/9) Update request test page: fix the numbering in DNA sample sending instructions, resize selected product icon, set product selection limit, parse               additionalData from lab and services data, show lab address if any
+    - (2021/1/12) Update user dashboard & user request test: set max view limit for order history and test result fix order history sorting, disabled unselected product card;  Update style: update style for order history and lab order list; Fix order history sorting at user dashboard
+    - (2021/1/13) Deployment changes: Create multi stage docker compose and config nginx
+    - (2021/1/14) Move to testnet: fix ethereum tx issue, fix send transaction when register speciment; Change IPFS connection; 
+    - (2021/1/15) Fix authentication flow: add route guards to check if logged in, sdd route guards to check user role when app start, move load web3 and contracts to router so to be able to access; Refactor; Connect to web3 and setup contracts before app renders; Fix flow in lab: change upload to result and genome, fix finalize to new method, fix bug crash on lab order list
+    - (2021/1/17) Update lab's dashboard: Modified lab's dashboard home datatable to show next actions, add Process Screen to process specimen, Receive -> Wetwork -> Encrypt Upload Files -> Send (Set specimen status to success) workflow
+    - (2021/1/18) Create order detail and all result: create page for w all result, create page for order detail, link page to dashboard; Create result: create result parser, create download result, create download genome; Update success & reject flow: show reject alert after rejecting speciment, show success alert after set speciment status to success
 
 **Demo Video**
     [![Demovid](/media/DegenicsAlpha01.png)](https://www.youtube.com/watch?v=qTyi8Zg8W_A&)
