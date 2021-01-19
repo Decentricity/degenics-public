@@ -103,7 +103,7 @@ Sprint is **weekly**.
     - (2021/1/17) Update lab's dashboard: Modified lab's dashboard home datatable to show next actions, add Process Screen to process specimen, Receive -> Wetwork -> Encrypt Upload Files -> Send (Set specimen status to success) workflow
     - (2021/1/18) Create order detail and all result: create page for w all result, create page for order detail, link page to dashboard; Create result: create result parser, create download result, create download genome; Update success & reject flow: show reject alert after rejecting speciment, show success alert after set speciment status to success
   
-  - Smart Contract
+ - Smart Contract
     - (2021/1/6)  Add timestamp
     - (2021/1/9)  Add dummy services data
     - (2021/1/11) Add escrow reg
