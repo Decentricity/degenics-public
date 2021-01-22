@@ -33,7 +33,7 @@ As per the report published by Allied Market Research, the global genetic testin
 
 ## An Answers to Several Problems
 
-### **PROBLEM ** : PERSONAL GENOMICS COMPANIES OWN, MONETIZE , OR LEAK USER DATA AND PERSONAL ID.
+### **PROBLEM** : PERSONAL GENOMICS COMPANIES OWN, MONETIZE , OR LEAK USER DATA AND PERSONAL ID.
 
 It is no secret that certain conditions and illnesses come together with social stigma. Requiring physical presence and named documents may prevent their efficient detection and/or prevention. 
 
@@ -107,7 +107,6 @@ Degenics is a group of IT consultants, blockchain developers, and biologists who
 * Ibnu Gamal Alhadid - Advisor
 
 # Tech Overview
-
 
 ## Trustless/Fully Decentralized Model
 
